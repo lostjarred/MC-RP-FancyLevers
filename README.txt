@@ -6,4 +6,4 @@ Based on idea of groovy levers from vanilla tweaks
 Minecraft Version : 1.12.2
 
 ==--Credits--==
-vanilla tweaks for the idea
+vanilla tweaks(https://vanillatweaks.net/) for the idea
